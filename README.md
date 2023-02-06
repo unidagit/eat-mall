@@ -11,7 +11,7 @@
 1. json-server 실행법 <br/>
    **`json-server --watch ./json-server/db.json --port 9000`**
 
-2. Next , start the Project : <br/>
+2. front 실행법 <br/>
    **`yarn dev`**
 
 <br>
@@ -37,7 +37,15 @@
 
   <br>
 
-## 구현 내용
+## 구현 화면
+
+#### pc 화면
+
+![screen-recording-_4_](https://user-images.githubusercontent.com/102465469/217030620-88310008-2c23-460f-8e59-6610a9d7205f.gif)
+
+#### 모바일 화면
+
+![screen-recording-_6_](https://user-images.githubusercontent.com/102465469/217033686-0c1c3a73-8c16-46d9-abcd-0105464aa971.gif)
 
 <br>
 
