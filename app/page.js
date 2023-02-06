@@ -1,5 +1,14 @@
+"use client";
+import HomeMain from "@/components/homeMain/HomeMain";
+
 function Home() {
-  return <div>Home</div>;
+  return (
+    <>
+      <div>
+        <HomeMain />
+      </div>
+    </>
+  );
 }
 
 export default Home;
